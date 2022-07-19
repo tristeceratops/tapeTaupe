@@ -1,0 +1,44 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(225, 24, 53);
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+* {
+    color: rgb(255, 254, 253);
+}
+
+.jeux {
+    width: 130px;
+    height : 130px;
+    border-radius: 65%;
+    border: 0;
+}
+
+h1{
+    margin: 0;
+}
+
+.taupe{
+    border-radius: 65%;
+    background-image: url("taupe.png");
+    background-repeat : no-repeat;
+    border: 0;
+}
+
+.vitesse{
+    margin: 20px;
+    width: 80px;
+    border: 0;
+    border-radius: 15%;
+}
+
+
+#content-wrapper{
+    text-align: center;
+}

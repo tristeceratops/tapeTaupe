@@ -1,0 +1,30 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background-color: #5c3636;
+}
+
+.bouton{
+    background-color: #b93d3d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+#content-wrapper{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
